@@ -1,5 +1,5 @@
-# Programacion
-Repositorio de Jonay Contreras para el módulo de Programación
+# ENTORNOS DE DESARROLLO
+Repositorio de Jonay Contreras para el módulo de ETS
 ## Unidades
 - [Unidad 1](unidad-1)
 - [Unidad 2](unidad-2)
