@@ -1,6 +1,6 @@
 //Librerias de las listas
 import java.util.ArrayList;
-import java.util.Liscdt;
+import java.util.List;
 /**
  * @author JonayKB
  * Examen ETS
