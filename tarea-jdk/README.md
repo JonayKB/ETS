@@ -146,4 +146,24 @@ Existen 2 opciones para la alternativa java (que provee /usr/bin/java).
 Pulse <Intro> para mantener el valor por omisión [*] o pulse un número de selección: 
 ```
 </details>
+
+---
+Otra opción seria:
+```code
+cd /etc/profile.d/
+nano java.sh
+# Java version
+JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+export JAVA_HOME
+export JRE_HOME
+export PATH
+```
+ <details>
+ <summary><strong>Salida</strong></summary>
+
+-  
+```code
+Ninguna, archivo creado
+```
 </div>
