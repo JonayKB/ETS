@@ -3,8 +3,9 @@
 # Instalación de JDK en el Ubuntu
 
 ## Índice
-
-
+1. [¿Cómo instalar Java en Ubuntu desde repositorios?](#¿cómo-instalar-java-en-ubuntu-desde-repositorios)
+2. [¿Cómo instalar una versión específica de Java](#¿cómo-instalar-una-versión-específica-de-java)
+3. [Configuración de variables de entorno](#configuración-de-las-variables-de-entorno)
 
 ## ¿Cómo instalar Java en Ubuntu desde repositorios?
 
