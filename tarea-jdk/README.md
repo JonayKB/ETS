@@ -159,12 +159,23 @@ PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
 export JAVA_HOME
 export JRE_HOME
 export PATH
+
+sudo chmod +x /etc/profile.d/java.sh
+source /etc/profile.d/java.sh
 ```
  <details>
  <summary><strong>Salida</strong></summary>
 
--  
+- nano /etc/profile.d/java.sh
 ```code
 Ninguna, archivo creado
+```
+- sudo chmod +x /etc/profile.d/java.sh
+```code
+Ninguna, cambio los permisos del archivo
+```
+- source /etc/profile.d/java.sh
+```code
+Ninguna, ejecuta el script
 ```
 </div>
