@@ -32,5 +32,57 @@ Como podemos observar, el sistema tiene distintos actores, casos de uso y relaci
 <img src= "./images/CasosDeUso1.png"/>
 </div>
 
+## Actores
+
+|  Actor | Paciente |
+|---|---|
+| Descripción  | Un individuo que busca servicios médicos en el hospital  |
+| Características  |  |
+| Relaciones | Regristrarse en el sistema y programar una cita |
+| Referencias | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md) |   
+|  Notas |   |
+| Autor  | JonayKB|
+|Fecha | 15-11-2023 |
+
+|  Actor | Médico |
+|---|---|
+| Descripción  | Profesional médico encargado de diagnosticar y tratar a los pacientes  |
+| Características  |  |
+| Relaciones | Realizar diagnosticos, acceder al historial médico, actualizar el historial médico, asignar tareas, prescribir tratamientos, registrar información médica y actualizar el historial médico |
+| Referencias | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md) |   
+|  Notas |   |
+| Autor  | JonayKB|
+|Fecha | 15-11-2023 |
+
+|  Actor | Enfermero |
+|---|---|
+| Descripción  | Encargado de asistir a los médicos y cuidar a los pacientes  |
+| Características  |  |
+| Relaciones | Acceder al historial médico y realizar tareas |
+| Referencias | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md) |   
+|  Notas |   |
+| Autor  | JonayKB|
+|Fecha | 15-11-2023 |
+
+|  Actor | Administrador |
+|---|---|
+| Descripción  | Responsable de la configuración y administración del sistema  |
+| Características  |  |
+| Relaciones | Realiza configuraciones y actualizaciones, tareas relacionadas con el seguro medico y gestiona los recursos del hospital |
+| Referencias | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md) |   
+|  Notas |   |
+| Autor  | JonayKB|
+|Fecha | 15-11-2023 |
+
+|  Actor | Recepcionista |
+|---|---|
+| Descripción  | Encargado de la recepción de pacientes y asignación de citas  |
+| Características  |  |
+| Relaciones | Programa citas |
+| Referencias | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md) |   
+|  Notas |   |
+| Autor  | JonayKB|
+|Fecha | 15-11-2023 |
+
 
 </div>
