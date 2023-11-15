@@ -84,5 +84,32 @@ Como podemos observar, el sistema tiene distintos actores, casos de uso y relaci
 | Autor  | JonayKB|
 |Fecha | 15-11-2023 |
 
+## Casos de Uso
+
+  |  Caso de Uso    CU | 1  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Paciente |
+  | Descripción | Registrarse en el sistema  |
+  | Flujo básico | 1- Registrarse|
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 2  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Paciente y Recepcionista |
+  | Descripción | Programar Cita  |
+  | Flujo básico | 1- Programar la cita|
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
 
 </div>
