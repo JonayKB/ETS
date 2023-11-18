@@ -91,7 +91,7 @@ Como podemos observar, el sistema tiene distintos actores, casos de uso y relaci
   | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
   | Actor  |  Paciente |
   | Descripción | Registrarse en el sistema  |
-  | Flujo básico | 1- Registrarse|
+  | Flujo básico | 1- Registrarse |
   | Pre-condiciones |   |  
   | Post-condiciones  |   |  
   |  Requerimientos |  |
@@ -104,12 +104,157 @@ Como podemos observar, el sistema tiene distintos actores, casos de uso y relaci
   | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
   | Actor  |  Paciente y Recepcionista |
   | Descripción | Programar Cita  |
-  | Flujo básico | 1- Programar la cita|
+  | Flujo básico | 1- Programar la cita |
   | Pre-condiciones | Autenticarse  |  
   | Post-condiciones  |   |  
   |  Requerimientos | Estar autenticado |
   |  Notas |   |
   | Autor  | JonayKB |
   |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 3  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Médico |
+  | Descripción | Realizar diagnostico  |
+  | Flujo básico | 1- Realiza el diagnostico |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 4  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Médico y enfermero |
+  | Descripción | Acceder al historial medico  |
+  | Flujo básico | 1- Acceder al historial medico |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 5  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Médico  |
+  | Descripción | Asignar tareas  |
+  | Flujo básico | 1- Asignar tareas |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 6  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Enfermero  |
+  | Descripción | Realizar tareas  |
+  | Flujo básico | 1- Realizar tareas |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 7  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Administrador  |
+  | Descripción | Realizar configuraciones  |
+  | Flujo básico | 1- Realizar configuraciones |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 8  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Administrador  |
+  | Descripción | Realizar actualizaciones  |
+  | Flujo básico | 1- Realizar actualizaciones |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 9  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Administrador  |
+  | Descripción | Realizar tareas del seguro medico  |
+  | Flujo básico | 1- Realizar tareas del seguro medico |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 10  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Administrador  |
+  | Descripción | Gestionar recursos  |
+  | Flujo básico | 1- Gestionar recursos |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 11  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Medico  |
+  | Descripción | Preescribir tratamientos  |
+  | Flujo básico | 1- Preescribir tratamientos |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 12  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Medico  |
+  | Descripción | Registrar información médica  |
+  | Flujo básico | 1- Registrar información médica |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+  |  Caso de Uso    CU | 13  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/tareas/gestion-hospitalaria.md)  |
+  | Actor  |  Medico  |
+  | Descripción | Actualizar historial médico  |
+  | Flujo básico | 1- Actualizar historial médico |
+  | Pre-condiciones | Autenticarse  |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Estar autenticado |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 15-11-2023 |
+
+
 
 </div>
