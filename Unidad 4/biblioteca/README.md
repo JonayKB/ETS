@@ -13,6 +13,11 @@
   Realiza	un	diagrama	de	casos	de	usos.
 
 
+## Diagrama
+<div align = "center">
+<img src="DiagramaLibería.imagen.png"/>
+</div>
+
 ## Actores
 
 |  Actor | Lector |
@@ -35,4 +40,6 @@
 |  Notas |   |
 | Autor  | JonayKB|
 |Fecha | 03-12-2023 |
+
+## Casos de Uso
 </div>
