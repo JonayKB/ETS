@@ -15,7 +15,7 @@
 
 ## Diagrama
 <div align = "center">
-<img src="DiagramaLibería.imagen.png"/>
+<img src="DiagramaLibería.drawio.png"/>
 </div>
 
 ## Actores
@@ -42,4 +42,110 @@
 |Fecha | 03-12-2023 |
 
 ## Casos de Uso
+
+  |  Caso de Uso    CU | 1  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Lector |
+  | Descripción | Pide el libro  |
+  | Flujo básico | 1- Pedir el libro |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Comprobar Máximo Libros Prestados, Comprobar Ausencia de Multas |
+  |  Notas |   |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 2  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Lector |
+  | Descripción | Cancela el prestamo  |
+  | Flujo básico | 1- Cancelar el prestamo |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Comprobar Máximo Libros Prestados, Comprobar Ausencia de Multas |
+  |  Notas |  Si no se cumplen las dos se cancela el prestamo |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 4  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Lector |
+  | Descripción | Comprobar Máximo Libros Prestados  |
+  | Flujo básico | 1- Comprueba el máximo de libros 2- Si son 3 3- Cancela el prestamo 4- Sino 5-Continua |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos | Comprobar Ausencia de Multas |
+  |  Notas |  Si no se cumplen las dos se cancela el prestamo |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 5  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Lector |
+  | Descripción | Comprobar Ausencia de Multas  |
+  | Flujo básico | 1- Comprueba las multas 2- Si tiene 3- Cancela el prestamo 4- Sino 5-Continua |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |  Si no se cumplen las dos se cancela el prestamo |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 6  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Lector |
+  | Descripción | Devolver libro  |
+  | Flujo básico | 1- Devuelve el libro |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |  |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 7  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Libro |
+  | Descripción | Añadir Multas  |
+  | Flujo básico | 1- Añade las multas |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |  |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 8  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Libro |
+  | Descripción | Entregar libro  |
+  | Flujo básico | 1- Presta el libro |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |  |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+  |  Caso de Uso    CU | 9  |
+  |---|---|
+  | Fuentes  | [Casos de uso](https://github.com/jpexposito/docencia/blob/master/Primero/ETS/DIAGRAMAS/DIAGRAMAS-CLASES/Ejemplos/biblioteca.md)  |
+  | Actor  |  Libro |
+  | Descripción | Comprobar Devolución  |
+  | Flujo básico | 1- Comprueba que se devuelve el libro |
+  | Pre-condiciones |   |  
+  | Post-condiciones  |   |  
+  |  Requerimientos |  |
+  |  Notas |  |
+  | Autor  | JonayKB |
+  |Fecha | 03-12-2023 |
+
+
 </div>
