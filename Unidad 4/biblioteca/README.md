@@ -15,7 +15,7 @@
 
 ## Diagrama
 <div align = "center">
-<img src="DiagramaLibería.drawio.png"/>
+<img src="images/DiagramaLibería.drawio.png"/>
 </div>
 
 ## Actores
@@ -147,5 +147,8 @@
   | Autor  | JonayKB |
   |Fecha | 03-12-2023 |
 
-
+## Diagrama de Clases
+<div align = "center">
+<img src= "images/DiagramaClasesLibreria.drawio.png">
+</div>
 </div>
